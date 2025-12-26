@@ -1,1 +1,9 @@
 scholarship_id,scholarship_name,university_institution,country,failed_criteria_count,failed_criteria_list,primary_rejection_reason,notes
+SCH011,Swedish Institute Scholarships,Swedish Universities,Sweden,2+,C2 C7,"Primarily graduate/masters level programs",Limited undergraduate options for non-EU students
+SCH012,Gates Cambridge Scholarship,University of Cambridge,United Kingdom,1,C2,"Postgraduate only - for Masters and PhD students",No undergraduate track available
+SCH013,ETH Excellence Scholarship,ETH Zurich,Switzerland,1,C2,"Masters students only",Undergraduate admission is tuition-free but no full scholarship
+SCH014,Erasmus Mundus Joint Masters,European Union,Multiple,1,C2,"Joint Masters degree programs only",No undergraduate option
+SCH015,Chinese Government Scholarship (CSC),Chinese Government,China,1,C10,"Often requires embassy nomination and application routing",University track exists but embassy involvement common
+SCH016,KGSP Undergraduate,Korean Government,South Korea,1,C10,"Requires embassy nomination in most countries",Application through Korean embassy in Zimbabwe
+SCH017,MEXT Scholarship,Japanese Government,Japan,1,C10,"Embassy recommendation route for most countries",University recommendation track limited
+SCH019,United World Colleges,UWC,Multiple,1,C2,"Pre-university IB diploma program not undergraduate degree",Ages 16-19 - leads to IB diploma then university

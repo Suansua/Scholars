@@ -1,1 +1,21 @@
 scholarship_id,scholarship_name,university_institution,country,c1_pass,c2_pass,c3_pass,c4_pass,c5_pass,c6_pass,c7_pass,c8_pass,c9_pass,c10_pass,total_pass,failed_criteria,outcome,notes
+SCH001,Mastercard Foundation Scholars Program,Multiple Partners,Multiple,LIKELY_PASS,LIKELY_PASS,LIKELY_PASS,LIKELY_PASS,LIKELY_PASS,LIKELY_PASS,VERIFY,VERIFY,VERIFY,LIKELY_PASS,7-10,C7-C9 need verification,SHORTLIST_PENDING,Strongest candidate - targets African students explicitly
+SCH002,Reach Oxford Scholarship,University of Oxford,United Kingdom,LIKELY_PASS,LIKELY_PASS,LIKELY_PASS,LIKELY_PASS,LIKELY_PASS,LIKELY_PASS,VERIFY,LIKELY_PASS,VERIFY,LIKELY_PASS,8-10,C7 C9 need verification,SHORTLIST_PENDING,Top UK scholarship - verify English waiver for A-level
+SCH003,ALU Scholarship,African Leadership University,Rwanda/Mauritius,LIKELY_PASS,LIKELY_PASS,LIKELY_PASS,VERIFY,VERIFY,VERIFY,VERIFY,LIKELY_PASS,VERIFY,LIKELY_PASS,5-10,Multiple verification needed,SHORTLIST_PENDING,Pan-African institution - verify EE and full funding
+SCH004,Lester B. Pearson Scholarship,University of Toronto,Canada,PASS,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,VERIFY,PASS,9,C8,NEAR_MISS,SAT required - high value scholarship
+SCH005,NYU Abu Dhabi Scholarship,NYU Abu Dhabi,UAE,PASS,PASS,PASS,PASS,PASS,PASS,PASS,FAIL,VERIFY,PASS,9,C8,NEAR_MISS,SAT required - one of most generous globally
+SCH006,Chancellor's International Scholarship,University of Warwick,United Kingdom,PASS,PASS,PASS,VERIFY,VERIFY,PASS,VERIFY,PASS,FAIL,PASS,7-9,C9,NEAR_MISS,IELTS required - verify A-level waiver
+SCH007,Denys Holland Scholarship,UCL,United Kingdom,PASS,PASS,PASS,VERIFY,PASS,PASS,VERIFY,PASS,FAIL,PASS,8-9,C9,NEAR_MISS,IELTS required - verify A-level waiver
+SCH008,Melbourne Chancellor's Scholarship,University of Melbourne,Australia,PASS,PASS,PASS,VERIFY,VERIFY,PASS,VERIFY,PASS,FAIL,PASS,7-9,C9,NEAR_MISS,IELTS required
+SCH009,ANU Chancellor's Scholarship,Australian National University,Australia,PASS,PASS,PASS,VERIFY,VERIFY,PASS,VERIFY,PASS,FAIL,PASS,7-9,C9,NEAR_MISS,IELTS required
+SCH010,DAAD Undergraduate Scholarships,German Universities,Germany,PASS,VERIFY,VERIFY,VERIFY,VERIFY,VERIFY,FAIL,PASS,VERIFY,PASS,4-9,C7,NEAR_MISS,2026 deadlines not yet published
+SCH011,Swedish Institute Scholarships,Swedish Universities,Sweden,PASS,FAIL,NA,NA,NA,NA,NA,PASS,VERIFY,PASS,2-3,C2,REJECTED,Primarily graduate level
+SCH012,Gates Cambridge Scholarship,University of Cambridge,United Kingdom,PASS,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,VERIFY,PASS,9,C2,REJECTED,Postgraduate only
+SCH013,ETH Excellence Scholarship,ETH Zurich,Switzerland,PASS,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,VERIFY,PASS,9,C2,REJECTED,Masters only
+SCH014,Erasmus Mundus,European Union,Multiple,PASS,FAIL,PASS,PASS,PASS,PASS,PASS,PASS,PASS,PASS,9,C2,REJECTED,Joint Masters only
+SCH015,Chinese Government Scholarship (CSC),Chinese Government,China,PASS,PASS,PASS,PASS,PASS,PASS,VERIFY,PASS,PASS,FAIL,9,C10,REJECTED,Often embassy-administered
+SCH016,KGSP Undergraduate,Korean Government,South Korea,PASS,PASS,PASS,PASS,PASS,PASS,VERIFY,PASS,PASS,FAIL,9,C10,REJECTED,Embassy application route
+SCH017,MEXT Scholarship,Japanese Government,Japan,PASS,PASS,PASS,PASS,PASS,PASS,VERIFY,PASS,PASS,FAIL,9,C10,REJECTED,Embassy route for many countries
+SCH018,Aga Khan Foundation Scholarship,Aga Khan Foundation,Multiple,PASS,VERIFY,PASS,PASS,PASS,PASS,VERIFY,PASS,PASS,PASS,8-10,C2 C7,VERIFY_NEEDED,Verify undergraduate availability
+SCH019,United World Colleges,UWC,Multiple,PASS,FAIL,PASS,PASS,PASS,VERIFY,VERIFY,PASS,PASS,PASS,7-8,C2,REJECTED,Pre-university IB program not undergrad
+SCH020,Yale-NUS Scholarship,Yale-NUS College,Singapore,PASS,PASS,PASS,PASS,PASS,VERIFY,VERIFY,VERIFY,VERIFY,PASS,6-10,Multiple,VERIFY_NEEDED,Singapore university - verify all requirements
