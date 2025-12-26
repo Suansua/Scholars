@@ -1,0 +1,9 @@
+# Application Checklists Directory
+
+This directory will contain individual application checklists for each shortlisted scholarship.
+
+Each checklist file will be named: `[scholarship-id]-[university-name]-checklist.md`
+
+Example: `SCH001-university-of-warwick-checklist.md`
+
+See `templates/application-checklist.md` for the template format.
